@@ -1,0 +1,16 @@
+asgiref==3.8.1
+colorgram.py==1.2.0
+crispy-tailwind==1.0.3
+distlib==0.3.8
+Django==5.0.7
+django-crispy-forms==2.3
+djangorestframework==3.15.2
+filelock==3.13.4
+heroes==1.0.2
+pillow==10.4.0
+platformdirs==4.2.1
+psycopg2-binary==2.9.9
+sqlparse==0.5.0
+tzdata==2024.1
+virtualenv==20.26.0
+whitenoise==6.6.0
